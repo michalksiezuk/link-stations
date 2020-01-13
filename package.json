@@ -2,6 +2,10 @@
   "name": "link-stations",
   "version": "1.0.0",
   "description": "Link station selection algorithm",
+  "main": "main.js",
+  "scripts": {
+    "test": "node lib/functions.test.js"
+  },
   "author": "Michał Księżuk <michal@ksiezuk.pl>",
   "license": "ISC"
 }
