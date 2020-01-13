@@ -1,0 +1,7 @@
+{
+  "name": "link-stations",
+  "version": "1.0.0",
+  "description": "Link station selection algorithm",
+  "author": "Michał Księżuk <michal@ksiezuk.pl>",
+  "license": "ISC"
+}
