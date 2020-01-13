@@ -4,6 +4,7 @@
   "description": "Link station selection algorithm",
   "main": "main.js",
   "scripts": {
+    "start": "node main.js",
     "test": "node lib/functions.test.js"
   },
   "author": "Michał Księżuk <michal@ksiezuk.pl>",
