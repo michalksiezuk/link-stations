@@ -5,8 +5,12 @@
   "main": "main.js",
   "scripts": {
     "start": "node main.js",
-    "test": "node lib/functions.test.js"
+    "test": "node lib/functions.test.js",
+    "docs": "jsdoc -d docs lib"
   },
   "author": "Michał Księżuk <michal@ksiezuk.pl>",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "jsdoc": "^3.6.3"
+  }
 }
